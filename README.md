@@ -41,4 +41,4 @@ sdsdsd
 ---
 
 ### Education
-- Korea Animation High School | Computer Game Production (2023.03.02 - attending)
+- Korea Animation High School - Computer Game Production (March 2, 2023 - Present)
