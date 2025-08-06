@@ -3,7 +3,8 @@
 ---
 
 ### 🔗 Links
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
+([https://youtube.com](https://www.youtube.com/@spacexixix))
 
 ---
 
