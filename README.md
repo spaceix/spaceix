@@ -1,11 +1,12 @@
 <h1 align="center">Hello There 👋</h1>
 
 ---
+
 sdsdsd
 
 ---
 
-### 🔗 Links
+## 🔗 Links
 #### SNS
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
 #### Games
@@ -14,7 +15,7 @@ sdsdsd
 
 ---
 
-### 💻 Languages & Tools
+## 💻 Languages & Tools
 #### Languages
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,3 +31,15 @@ sdsdsd
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spaceix&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spaceix&" alt="spaceix" />
+</div>
+
+---
+
+### Education
+- Korea Animation High School | Computer Game Production - (02/03/2023)
