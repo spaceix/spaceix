@@ -1,9 +1,8 @@
 <h1 align="center">Hello There 👋</h1>
 
 ---
-<a href="https://solved.ac/spacexixix">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" alt="Solved.ac 프로필" align="right"/>
- </a>
+<a >
+    <img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" href="https://solved.ac/spacexixix"  align="right"/>
 asdsdadsda
 
 ---
