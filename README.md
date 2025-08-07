@@ -1,8 +1,10 @@
 <h1 align="center">Hello There 👋</h1>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspaceix&label=hits&icon=github&color=%23000000&message=&style=for-the-badge&tz=UTC" align="right">
+<br>
 
 ---
-[![HitCount](https://hits.dwyl.com/spaceix/spaceix.svg?style=flat-square&show=unique)](http://hits.dwyl.com/spaceix/spaceix)
-sdsdsd
+
+asdsdadsda
 
 ---
 
