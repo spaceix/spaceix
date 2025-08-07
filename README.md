@@ -33,12 +33,10 @@ asdsdadsda
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spaceix&show_icons=true" />
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix)](https://solved.ac/spacexixix)
-</div>
+[![SpaceIX's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix)](https://solved.ac/spacexixix)
 
 ---
 
