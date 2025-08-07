@@ -1,7 +1,9 @@
 <h1 align="center">Hello There 👋</h1>
 
 ---
-
+<a href="https://solved.ac/spacexixix">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" alt="Solved.ac 프로필" align="right"/>
+ </a>
 asdsdadsda
 
 ---
@@ -35,9 +37,8 @@ asdsdadsda
 
 ### 📊 Stats
 
-[![SpaceIX's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix)](https://solved.ac/spacexixix)
-
+[![SpaceIX's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)
+    
 ---
 
 ### 🎓 Education
