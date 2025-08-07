@@ -5,7 +5,7 @@
 sdsdsd
 
 ---
-<details>
+<details markdown="1">
 ### <summary>🔗 Links </summary>
 #### SNS
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
