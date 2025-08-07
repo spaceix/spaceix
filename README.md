@@ -37,6 +37,7 @@ asdsdadsda
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spaceix&show_icons=true" />
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix)](https://solved.ac/spacexixix)
 </div>
 
 ---
