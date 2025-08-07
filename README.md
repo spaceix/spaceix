@@ -1,43 +1,55 @@
 <h1 align="center">Hello There 👋</h1>
 
 ---
-<a >
-    <img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" href="https://solved.ac/spacexixix"  align="right"/>
-asdsdadsda
+
+
 
 ---
 
 ### 🔗 Links
+
 #### 🌐 SNS
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
+
 #### 🎮 Games
+
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://spaceix.itch.io/)
-
 
 ---
 
 ### 💻 Languages & Tools
+
 #### 🧠 Languages
+
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<br>
+
 #### 🔄 Version Control
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🛠️ Tools
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
 ### 📊 Stats
+<p align="center">
+  <a href="https://solved.ac/spacexixix">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" alt="Solved.ac Profile"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md">
+    <img src="https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&bg_color=gradient" alt="SpaceIX's GitHub stats"/>
+  </a>
+</p>
 
-[![SpaceIX's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)
-    
 ---
 
 ### 🎓 Education
