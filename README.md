@@ -45,7 +45,7 @@
 ### 📊 Stats
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md">
-    <img src="https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&border_radius=10&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=cc87ff&border_color=bebeff" alt="SpaceIX's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&include_all_commits=true&border_radius=10&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=cc87ff&border_color=bebeff" alt="SpaceIX's GitHub stats"/>
 </p>
 
 ---
