@@ -1,10 +1,7 @@
 <h1 align="center">Hello There 👋</h1>
 
 ---
-
-<div align="right">
-  [![HitCount](https://hits.dwyl.com/spaceix/spaceix.svg?style=flat-square&show=unique)](http://hits.dwyl.com/spaceix/spaceix)
-</div>
+[![HitCount](https://hits.dwyl.com/spaceix/spaceix.svg?style=flat-square&show=unique)](http://hits.dwyl.com/spaceix/spaceix)
 sdsdsd
 
 ---
