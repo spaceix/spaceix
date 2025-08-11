@@ -4,19 +4,6 @@ spacexixix@gmail.com
 
 ---
 
-### 🔗 Links
-
-#### 🌐 SNS
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
-
-#### 🎮 Games
-
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]()
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://spaceix.itch.io/)
-
----
-
 ### 💻 Languages & Tools
 
 #### 🧠 Languages
@@ -49,6 +36,19 @@ spacexixix@gmail.com
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" alt="Solved.ac Profile" />
   </a>
 </p>
+
+---
+
+### 🔗 Links
+
+#### 🌐 SNS
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
+
+#### 🎮 Games
+
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]()
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://spaceix.itch.io/)
 
 ---
 
