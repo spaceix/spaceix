@@ -24,12 +24,12 @@
 ---
 
 ### 📊 Stats
-<p align="center">
+<p>
     <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md">
     <img src="https://github-readme-stats.vercel.app/api?username=spaceix&show_icons=true&include_all_commits=false&border_radius=10&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=cc87ff&border_color=bebeff" alt="SpaceIX's GitHub stats"/>
 </p>
 
-<p align="center">
+<p>
   <a href="https://solved.ac/spacexixix">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacexixix" alt="Solved.ac Profile" />
   </a>
