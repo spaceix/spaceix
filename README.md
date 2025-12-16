@@ -1,7 +1,5 @@
 <h1 align="center">Hello There 👋</h1>
 
-spacexixix@gmail.com
-
 ---
 
 ### 💻 Languages & Tools
@@ -15,7 +13,7 @@ spacexixix@gmail.com
 
 #### 🔄 Version Control
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spaceix)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🛠️ Tools
@@ -44,8 +42,9 @@ spacexixix@gmail.com
 #### 🌐 SNS
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/space_xixix/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/spacexixix)
+Email : spacexixix@gmail.com
 
 #### 🎮 Games
 
