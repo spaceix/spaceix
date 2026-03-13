@@ -57,4 +57,4 @@
 ### 🎓 Education
 
 - Korea Animation High School  
-  *Computer Game Production* (March 2, 2023 – Present)
+  *Computer Game Production* (March 2, 2023 – December 30, 2025)
