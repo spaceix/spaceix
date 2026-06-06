@@ -1,7 +1,7 @@
 
 `Email` spacexixix@gmail.com
 
-[![wakatime](https://wakatime.com/badge/user/6c84d266-609a-4928-92f4-1a7890e5f613.svg)]([https://wakatime.com/@6c84d266-609a-4928-92f4-1a7890e5f613](https://wakatime.com/@spacexixix))
+[![wakatime](https://wakatime.com/badge/user/6c84d266-609a-4928-92f4-1a7890e5f613.svg)](https://wakatime.com/@6c84d266-609a-4928-92f4-1a7890e5f613)
 
 **Links**
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]()
