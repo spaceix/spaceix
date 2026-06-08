@@ -2,6 +2,7 @@
 
 `Email`spacexixix@gmail.com
 
+`SNS`
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@spacexixix)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/space_xixix/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/spacexixix)
