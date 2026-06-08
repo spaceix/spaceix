@@ -2,8 +2,6 @@
 
 `Email`spacexixix@gmail.com
 
-
-
 [![wakatime](https://wakatime.com/badge/user/6c84d266-609a-4928-92f4-1a7890e5f613.svg)](https://wakatime.com/@spacexixix)
 
 #### Links
