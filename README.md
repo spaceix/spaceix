@@ -11,6 +11,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/space_xixix/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/spacexixix)
 
-**Education**
+#### Education
 - Korea Animation High School  
   *Computer Game Production* (March 2, 2023 – December 30, 2025)
