@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/6c84d266-609a-4928-92f4-1a7890e5f613.svg)](https://wakatime.com/@spacexixix)
 
-**Links**
+#### Links
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]()
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://spaceix.itch.io/)
 
